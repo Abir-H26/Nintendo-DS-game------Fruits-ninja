@@ -1,0 +1,1 @@
+flaque.o: flaque.s

@@ -1,0 +1,1 @@
+banane.o: banane.s

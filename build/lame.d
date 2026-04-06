@@ -1,0 +1,1 @@
+lame.o: lame.s

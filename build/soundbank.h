@@ -1,0 +1,9 @@
+#define SFX_CLUNK	0
+#define SFX_FANFARE_X	1
+#define MOD_FLATOUTLIES	0
+#define SFX_GAME_OVER	33
+#define SFX_RESULT	34
+#define SFX_SWISH	35
+#define MSL_NSONGS	1
+#define MSL_NSAMPS	36
+#define MSL_BANKSIZE	37
