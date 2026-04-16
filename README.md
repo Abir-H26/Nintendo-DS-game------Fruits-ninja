@@ -117,31 +117,3 @@ sprite animations, sound effects, timers, interrupts, and dual-processor coordin
   <li>Blade sprite follows touchscreen movement</li>
   <li>Blade disappears when touch is released</li>
 </ul>
-
-<hr>
-
-<h2>Screenshots</h2>
-<p>Add your NDS device photos here:</p>
-
-<pre>
-/assets/
-   screenshot_menu.png
-   screenshot_ananas.png
-   screenshot_pasteque.png
-</pre>
-
-<hr>
-
-<h2>Build & Run</h2>
-<pre>
-make
-make run
-</pre>
-
-<hr>
-
-<h2>Authors</h2>
-<ul>
-  <li><strong>TITOVA Xenia</strong></li>
-  <li><strong>HAMMOUMI Abir</strong></li>
-</ul>
