@@ -1,4 +1,4 @@
-<h1>Fruit Ninja — Nintendo DS Homebrew</h1>
+<h1>Fruit Ninja — Nintendo DS Game</h1>
 <p><em>A microprogrammed embedded systems project built on the Nintendo DS architecture.</em></p>
 
 <p>
